@@ -29,6 +29,7 @@ Existing colour-shifting pigments produce broad spectral travel and are always o
 ## Document
 
 :page_facing_up: **[43-E_Labradorescent_Pigments_Formatted.docx](43-E_Labradorescent_Pigments_Formatted.docx)** — Full collaboration whitepaper
+:bookmark_tabs: **[43-E_Labradorescent_Pigments_Formatted.pdf](43-E_Labradorescent_Pigments_Formatted.pdf)** — PDF export
 
 ## Author
 
